@@ -1,3 +1,4 @@
+<img src="https://i.imgur.com/q4s1s1t.png" alt="Banner" style="width:100%;">
 <h1 align="center">You can call me is Loc Nguyen</h1>
 <h3 align="center">A C++ developer from VIETNAM</h3>
 
@@ -7,7 +8,6 @@
 
 - ⚡ Fun fact **I think im lolicon**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
