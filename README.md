@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-photo/3d-render-tree-landscape-against-night-sky_1048-5698.jpg?t=st=1745411957~exp=1745415557~hmac=a9d995f2663258913e75824ec6d6355a39ebd5de7bd955092a3d485e2ffb1a6f&w=1380" alt="Banner" style="width:80%;">
+<img src="https://img.freepik.com/free-photo/3d-render-tree-landscape-against-night-sky_1048-5698.jpg?t=st=1745411957~exp=1745415557~hmac=a9d995f2663258913e75824ec6d6355a39ebd5de7bd955092a3d485e2ffb1a6f&w=1380" alt="Banner" style="width:80%; height:200px;">
 <h1 align="center">You can call me Loc Nguyen</h1>
 <h3 align="center">A C++ developer from VIETNAM</h3>
 
