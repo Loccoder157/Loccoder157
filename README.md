@@ -9,9 +9,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Learning-00C853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-blueviolet?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/FOCUS-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-LEARNING-00C853?style=for-the-badge" />
 </p>
 
 ---
