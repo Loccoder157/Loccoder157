@@ -9,8 +9,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/STATUS-LEARNING-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-C%2B%2B-00599C?style=for-the-badge" alt="Focus C++" />
+  <img src="https://img.shields.io/badge/STATUS-LEARNING-00C853?style=for-the-badge" alt="Status Learning" />
 </p>
 
 ---
