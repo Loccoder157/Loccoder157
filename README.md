@@ -1,5 +1,9 @@
 # 👋 Hey, I'm Lộc Hoàng!
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Welcome+to+my+GitHub+Profile!;Eat.+Sleep.+Code.+Repeat.;C%2B%2B+is+my+favorite+language.;while(true)+%7B+keep_learning()%3B+%7D;Debugging+is+part+of+my+life.;Code.+Create.+Innovate.;if+her+die+i+will+die+with+her" alt="Typing SVG" />
+</p>
+
 <h3 align="center">
   💻 C++ Developer | Software Engineering Student | Tech Enthusiast
 </h3>
